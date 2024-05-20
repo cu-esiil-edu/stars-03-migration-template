@@ -1,2 +1,2 @@
-# shortcourse-01-get-started-template
-A template repository for getting started with Python
+# Stars Species Distribution
+A template repository for mapping species distribution
